@@ -11,3 +11,9 @@ An open source platform to connect problems worth solving to people who have the
 * Output
   * Notification and recommendations when a match is found
   * Community creation
+
+## Notes
+
+* Follow a test-driven development approach, so documentation and interface first, implementation later
+* Keep a log of issues faced and how did you resolve those
+* Create a database of relevant funding organizations
