@@ -18,3 +18,4 @@ An open source platform to connect problems worth solving to people who have the
 * Keep a log of issues faced and how did you resolve those
 * Create a database of relevant funding organizations
 * For appropriately allocating problems and as inputs to the recommendation engine, use a small questionnaire like Netflix does to understand your interests. The choices will depend on our study of literature and the problems identified based on twitter data
+* Ensure credibility and validation of both the problem and the problem solvers. Having a smaller volume but one you can trust is more powerful than having a large volume but you can't trust the posts or the people involved. This involves doing things that don't scale in the start.
