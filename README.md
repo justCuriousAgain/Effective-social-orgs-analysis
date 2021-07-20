@@ -7,6 +7,8 @@ An open source platform to connect problems worth solving to people who have the
 * Inputs
   * Interface to allow people to add problems to database (after verification): No junk policy, Twitter integration
   * People can add relevant organizations/funding orgs to the database
+  * Could be used to fund independent research projects and allow collaborators to connect
+    * Research could be funded to create content and then this content can be of demand in the external countries which can bring income to India and help find its place in the global world order
   * Create their profiles with the appropriate skillsets, interests, and time availability per week - Can connect with LinkedIn and other social media accounts
 * Output
   * Notification and recommendations when a match is found
