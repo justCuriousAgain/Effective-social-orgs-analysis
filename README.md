@@ -21,3 +21,11 @@ An open source platform to connect problems worth solving to people who have the
 * Create a database of relevant funding organizations
 * For appropriately allocating problems and as inputs to the recommendation engine, use a small questionnaire like Netflix does to understand your interests. The choices will depend on our study of literature and the problems identified based on twitter data
 * Ensure credibility and validation of both the problem and the problem solvers. Having a smaller volume but one you can trust is more powerful than having a large volume but you can't trust the posts or the people involved. This involves doing things that don't scale in the start.
+
+* Define objective function
+  * Need to define objective function for our platform. What are we optimizing for?
+    * A lot of social media platforms are optimized for attention, which is not directly suited to actually solving problems
+    * We need to define the parameters that will govern what aspects we need to focus on
+      * **Higher scores good for platform**: Number of problems solved, number of people impacted by the problems solved, number of problem solvers getting engagement, for each person, the ratio of problems suggested to problems taken, the ratio of problems taken to problems solved, rate of resolving reported abuse issues etc.
+      * **Lower scores good for platform**: Number of fake accounts and posts, number of reported abuses, number of spam problems, turn around time for resolving abuse, turn around time for problem clarification, time to find the appropriate candidates for solving the problem
+  
