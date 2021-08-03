@@ -78,7 +78,7 @@
 Solver | Maximizing impact | What can they offer (skill, time, money etc), and how much of it; Expectations/addtional requirements from the post creator | Problem info + other updated info on the current status | Acceptance and then cancellations, malicious actors, lack of expertise, not finding the right solver/ no solver available | location or authorization constraints |
 | Funding orgs | ROI | TBD | TBD | TBD |
 | Knowledge/expertise source | Recognition,; outreach; network | TBD | TBD | TBD |
-|
+
 
 #### **Essential components of our service/system**
 
