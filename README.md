@@ -29,3 +29,8 @@ An open source platform to connect problems worth solving to people who have the
       * **Higher scores good for platform**: Number of problems solved, number of people impacted by the problems solved, number of problem solvers getting engagement, for each person, the ratio of problems suggested to problems taken, the ratio of problems taken to problems solved, rate of resolving reported abuse issues etc.
       * **Lower scores good for platform**: Number of fake accounts and posts, number of reported abuses, number of spam problems, turn around time for resolving abuse, turn around time for problem clarification, time to find the appropriate candidates for solving the problem
   
+## Resources
+
+### Dev
+
+* Python: <https://www.fullstackpython.com/table-of-contents.html>
