@@ -79,7 +79,6 @@ Solver | Maximizing impact | What can they offer (skill, time, money etc), and h
 | Funding orgs | ROI | TBD | TBD | TBD |
 | Knowledge/expertise source | Recognition,; outreach; network | TBD | TBD | TBD |
 
-
 #### **Essential components of our service/system**
 
 * ***Verification/validation on the both ends (problem post creator and solving candidates)*** - Analogy with Uber/Ola can be useful - in team creation, can take inspiration from Uber Pool's dynamics
