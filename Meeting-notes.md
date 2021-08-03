@@ -67,6 +67,7 @@
 
 ### Key Takeaways - 2
 
+* To consider applying for [FOSS4Gove Innovation Challenge](https://innovateindia.mygov.in/foss4gov-innovation-challenge/)
 * Used the SPRINT framework by Google Ventures
 * Dividing contributors across 4 verticals with leading members in each group
 
