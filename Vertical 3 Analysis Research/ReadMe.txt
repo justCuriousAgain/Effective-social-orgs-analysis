@@ -1,0 +1,1 @@
+Analytics and Research is the vertical for experts. Performing the data analytics, the guidance to poster(s) is provided through the solvers, during the time of request from solver.
