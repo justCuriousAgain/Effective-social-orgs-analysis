@@ -23,6 +23,7 @@ An open source platform to connect problems worth solving to people who have the
 * Ensure credibility and validation of both the problem and the problem solvers. Having a smaller volume but one you can trust is more powerful than having a large volume but you can't trust the posts or the people involved. This involves doing things that don't scale in the start.
 
 * Define objective function
+  * Need to ensure the expectations are clear for both the problem post creator and the solver. Take example of schoolhouse.world. In case of issues, they can connect with support. The solver shouldn't get confused as to what's happening. Also, need to ensure we have the network effect. The first posters and solvers become volunteers and part of the team to help the project grow further.
   * Need to define objective function for our platform. What are we optimizing for?
     * A lot of social media platforms are optimized for attention, which is not directly suited to actually solving problems
     * We need to define the parameters that will govern what aspects we need to focus on
@@ -30,6 +31,12 @@ An open source platform to connect problems worth solving to people who have the
       * **Lower scores good for platform**: Number of fake accounts and posts, number of reported abuses, number of spam problems, turn around time for resolving abuse, turn around time for problem clarification, time to find the appropriate candidates for solving the problem
   
 ## Resources
+
+### Datasets
+
+* Skill data:
+  * <https://www.kaggle.com/salehahmedrony/linkedin-digital-data>
+  * <https://www.kaggle.com/arbazkhan971/allskillandnonskill?select=skills.csv>
 
 ### Dev
 
