@@ -32,6 +32,12 @@ An open source platform to connect problems worth solving to people who have the
   
 ## Resources
 
+### Knowledge Repo
+
+* Government portal - Vikaspedia api
+  * <https://data.vikaspedia.in/api>
+  * <https://vikaspedia.in/InDG>
+
 ### Datasets
 
 * Skill data:
