@@ -34,7 +34,7 @@ An open source platform to connect problems worth solving to people who have the
 
 ### Knowledge Repo
 
-* Government portal - Vikaspedia api
+* Government portal - Vikaspedia
   * <https://data.vikaspedia.in/api>
   * <https://vikaspedia.in/InDG>
 
